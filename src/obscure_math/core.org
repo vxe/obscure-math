@@ -1,0 +1,16 @@
+#+BEGIN_SRC clojure :tangle core.clj
+(ns obscure-math.core
+  (:gen-class))
+#+END_SRC
+* constants
+* utilites
+* components
+* experimental
+** Kaprekar Numbers
+   https://www.reddit.com/r/math/comments/8uumyk/kaprekar_numbers_are_numbers_whose_square_in_that/
+   - is-perfect-square?
+   - has-even-number-of-digits?
+   - partition-digits
+   - (if (= (sum-paritions  p1 p2) (sqrt input)
+     :kaprekar-number)
+   

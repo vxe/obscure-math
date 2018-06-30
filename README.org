@@ -1,0 +1,17 @@
+# -*- mode:org -*-
+#+TITLE: obscure
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+Inspired by the amusing definitions of various classes of numbers
+which show up on reddit from time to time.  Potentially also Project
+Euler at some point
+** Overview :TOC:
+- [[#installation][Installation]]
+- [[#usage][Usage]]
+- [[#extending][Extending]]
+- [[#implementation][Implementation]]
+
+* Installation
+* Usage
+* Extending
+* Implementation 
